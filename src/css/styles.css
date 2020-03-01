@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,700&display=swap');
+html{
+    font-size: 62.5%;
+}
+
+
+body{
+    font-size: 1.6rem;
+    font-family: 'Crimson Text';
+    background-color: #ddc;
+}
+.header{
+    padding: 1rem;
+    background-color: #aaa;
+    text-align: center;
+    font-size: 2.6rem;
+}
